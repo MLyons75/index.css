@@ -1,0 +1,36 @@
+properties
+{
+    property: value;
+
+}
+
+h1
+{
+    text-align: center;
+}
+
+img
+{
+    max-width: 1000px;
+}
+
+footer
+{
+    text-align: center;
+    margin-right: 200px;
+}
+
+nav
+{
+height: 6000px;
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 100px;
+}
+
+body
+{
+    background-color:rgb(153, 37, 60);
+    color:darkturquoise
+}
